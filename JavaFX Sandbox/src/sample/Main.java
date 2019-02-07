@@ -20,7 +20,7 @@ import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
 
-//test commit 1
+//test commit 2
 public class Main extends Application {
 
     @Override

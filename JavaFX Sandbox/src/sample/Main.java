@@ -19,12 +19,13 @@ import javafx.scene.text.FontWeight;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
+
+//test commit 1
 public class Main extends Application {
 
     @Override
     public void start(Stage primaryStage) {
         primaryStage.setTitle("JavaFX Welcome");
-
 
         GridPane grid = new GridPane();
 
